@@ -1,2 +1,2 @@
 # gitea-docker
-- homelab testing v1
+- homelab testing v2
